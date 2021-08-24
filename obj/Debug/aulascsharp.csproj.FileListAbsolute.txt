@@ -1,0 +1,7 @@
+C:\Users\hanna\source\repos\aulascsharp\bin\Debug\aulascsharp.exe.config
+C:\Users\hanna\source\repos\aulascsharp\bin\Debug\aulascsharp.exe
+C:\Users\hanna\source\repos\aulascsharp\bin\Debug\aulascsharp.pdb
+C:\Users\hanna\source\repos\aulascsharp\obj\Debug\aulascsharp.csprojAssemblyReference.cache
+C:\Users\hanna\source\repos\aulascsharp\obj\Debug\aulascsharp.csproj.CoreCompileInputs.cache
+C:\Users\hanna\source\repos\aulascsharp\obj\Debug\aulascsharp.exe
+C:\Users\hanna\source\repos\aulascsharp\obj\Debug\aulascsharp.pdb
